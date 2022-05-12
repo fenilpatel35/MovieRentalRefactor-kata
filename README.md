@@ -1,2 +1,2 @@
-# MovieRentalRefactor-katana
+# MovieRentalRefactor-kata
 Refactoring Exercise 
